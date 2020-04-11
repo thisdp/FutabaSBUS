@@ -1,0 +1,12 @@
+FUTABA_SBUS KEYWORD1
+begin KEYWORD2
+Channel KEYWORD2
+DigiChannel  KEYWORD2
+Servo  KEYWORD2
+DigiServo KEYWORD2
+Failsafe  KEYWORD2
+PassthroughSet KEYWORD2
+PassthroughRet KEYWORD2
+UpdateServos KEYWORD2
+UpdateChannels KEYWORD2
+FeedLine KEYWORD2
